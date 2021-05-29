@@ -53,7 +53,7 @@ namespace Candies
 
             }
 
-            for(int j=arr.Count-2; j==0;j--)
+            for(int j=arr.Count-2; j>=0;j--)
             {
                 if (arr[j] > arr[j + 1]) arrRight[j] = arrRight[j + 1] + 1;
                 else arrRight[j] = 1;
