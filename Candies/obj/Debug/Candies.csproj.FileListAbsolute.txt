@@ -1,0 +1,7 @@
+C:\Users\masit\source\repos\HackerRank\Candies\Candies\bin\Debug\Candies.exe.config
+C:\Users\masit\source\repos\HackerRank\Candies\Candies\bin\Debug\Candies.exe
+C:\Users\masit\source\repos\HackerRank\Candies\Candies\bin\Debug\Candies.pdb
+C:\Users\masit\source\repos\HackerRank\Candies\Candies\obj\Debug\Candies.csprojAssemblyReference.cache
+C:\Users\masit\source\repos\HackerRank\Candies\Candies\obj\Debug\Candies.csproj.CoreCompileInputs.cache
+C:\Users\masit\source\repos\HackerRank\Candies\Candies\obj\Debug\Candies.exe
+C:\Users\masit\source\repos\HackerRank\Candies\Candies\obj\Debug\Candies.pdb
